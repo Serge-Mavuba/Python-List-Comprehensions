@@ -7,7 +7,7 @@ In this moddule you will learn the basic of lists Comprehensions by;
 
     2. Defininig what Lists Comprehensions are
 
-    3. Sovling a  problem wihout using a List Comprehensions:
+    3. Sovling a problem wihout using a List Comprehensions:
         * Create a list of students
         * Write lines of codes to find the names of students whose name starts with the letter "S"
 
