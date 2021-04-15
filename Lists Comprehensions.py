@@ -66,3 +66,4 @@ pre2k=[student for (student, year) in NEW if year < 2000]
 # Next We select the students that were born before 2000 using an if clause
 
 print(Fore.WHITE+ Back.GREEN + Style.BRIGHT + ", ".join(pre2k))
+print()
